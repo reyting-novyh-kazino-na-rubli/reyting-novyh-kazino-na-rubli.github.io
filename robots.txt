@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-novyh-kazino-na-rubli.github.io
+Sitemap: https://reyting-novyh-kazino-na-rubli.github.io/sitemap.xml
